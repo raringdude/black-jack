@@ -1,0 +1,25 @@
+.handArea{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    
+    text-align: center;
+   
+}
+
+.hand{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+
+.card{
+    height: 150px;
+    width: 100px;
+    background-color: rgb(43, 143, 43);
+    border: solid black;
+    margin: 5px;
+    border-radius: 8px;
+}
